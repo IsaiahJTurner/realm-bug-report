@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Realm Bug report/ViewController.swift"
+            timestampString = "580252711.14846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (RealmSwift.RealmCollectionChange&lt;RealmSwift.Results&lt;Realm_Bug_report.Row&gt;&gt;) -&gt; () in Realm_Bug_report.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Realm Bug report"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IsaiahJTurner/Repositories/Realm%20Bug%20report/Realm%20Bug%20report/ViewController.swift"
+                  timestampString = "580252711.17818"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (RealmSwift.RealmCollectionChange&lt;RealmSwift.Results&lt;Realm_Bug_report.Row&gt;&gt;) -&gt; () in Realm_Bug_report.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Realm Bug report"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IsaiahJTurner/Repositories/Realm%20Bug%20report/Realm%20Bug%20report/ViewController.swift"
+                  timestampString = "580252711.180253"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2280">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (RealmSwift.RealmCollectionChange&lt;RealmSwift.Results&lt;Realm_Bug_report.Row&gt;&gt;) -&gt; () in Realm_Bug_report.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Realm Bug report"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IsaiahJTurner/Repositories/Realm%20Bug%20report/Realm%20Bug%20report/ViewController.swift"
+                  timestampString = "580252711.182513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
